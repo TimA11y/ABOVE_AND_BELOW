@@ -1,0 +1,17 @@
+{
+  "name": "above_and_below",
+  "version": "1.0.0",
+  "description": "A game tracker to keep track of the building, oupost, key, star cards in the board game Above and Below.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:unit": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "Tim Harshbarger",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2",
+    "jest-environment-jsdom": "^29.6.2"
+  }
+}
